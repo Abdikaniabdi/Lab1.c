@@ -1,4 +1,4 @@
-# Inet3101 Lab1.c
+# Inet3101-Lab1
 
 
 Code for Inet3101
