@@ -1,3 +1,11 @@
+################################
+#
+# Program Name: Parts Record Manager C program
+#
+# Author: Abdikani Abdi
+#
+################################
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
